@@ -38,7 +38,7 @@ The .env file should contain:
 # --- Required Credentials ---
 ZUBALE_USER="YOUR_ZUBALE_EMAIL"
 ZUBALE_PASSWORD="YOUR_ZUBALE_PASSWORD"
-ANTHROPIC_API_KEY="YOUR_ANTHROPIC_API_KEY" # Used for the Agent model
+ANTHROPIC_API_KEY="YOUR_ANTHROPIC_API_KEY" # Used for the Agent model or the API for the model you choose e.g Gemini 2.5 
 
 # --- Script Specific Configuration ---
 TARGET_TASK_URL="[https://zombie.app.zubale.com/submissions/new](https://zombie.app.zubale.com/submissions/new)"
