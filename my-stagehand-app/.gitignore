@@ -1,0 +1,11 @@
+Dependencies
+
+/node_modules
+/dist
+/build
+/out
+
+Configuration and Environment
+
+.env
+.DS_Store
